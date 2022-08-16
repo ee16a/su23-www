@@ -1,0 +1,26 @@
+-   name: Oliver Chen
+    email: ochen@
+    bio: "I am a PhD candidate in EECS working on implantable MEMS silicon neural probes for brain-machine interfaces. Outside of research, I enjoy backpacking/hiking, reading, and eating fried chicken."
+    role: Content
+    image: OliverChen.JPG
+    pronouns: he/him/his
+
+-   name: Jasmine Jan
+    email: jasminejan@
+    bio: "I'm a PhD student in EECS researching printed and flexible organic optoelectronic devices in the Arias lab. My hobbies include cooking, baking, and hiking. "
+    role: Dis/Content
+    image: JasmineJan.jpg
+    imageFun: JasmineJanFun.jpg
+    pronouns: she/her/hers
+-   name: Rebekah Zhao
+    email: rebekah_zhao@
+    bio: "I am a 4th year PhD student in EECS. My research interest lies at the intersection of MRI, integrated circuit design and medical implants. My current research focuses on building a neural recording implant system which communicates via MRI. Outside of work, I am enthusiastic about running and making music."
+    role: Dis/Content
+    image: RebekahZhao.jpg
+    pronouns: she/her/hers
+-   name: Ekin Karasan
+    email: ekin_karasan@
+    bio: "Hi! I'm a fourth year PhD student in EECS. My research focuses on developing new tools and techniques for magnetic resonance imaging. In my free time, I enjoy playing tennis, running and watching tv."
+    role: Dis/Content
+    image: EkinKarasan.jpg
+    pronouns: she/her/hers

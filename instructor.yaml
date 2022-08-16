@@ -1,0 +1,14 @@
+- name: Ana Arias
+  email: acarias@
+  pronouns: she/her/hers
+  image: AnaArias.jpg
+  bio: "Dr. Ana Claudia Arias is a Professor at the Electrical Engineering and Computer Sciences Department at the University of California in Berkeley and a faculty director at the Berkeley Wireless Research Center (BWRC). Prior to joining the University of California she was the Manager of the Printed Electronic Devices Area and a Member of Research Staff at PARC, a Xerox Company, Palo Alto, CA. She went to PARC from Plastic Logic in Cambridge, UK where she led the semiconductor group. She received her PhD in Physics from the University of Cambridge, UK. Prior to that, she received her master and bachelor degrees in Physics from the Federal University of Paraná in Curitiba, Brazil. Her research focuses on devices based on solution processed materials and application development for flexible sensors and electronic systems. Dr. Arias is a co-founder of InkSpace Imaging, a startup company that aims to commercialized flexible MRI coils for pediatric patients."
+- name: Michael (Miki) Lustig
+  email: mlustig@
+  pronouns: he/his/him
+  image: MichaelLustig.jpg
+  imageFun: MichaelLustigFun.png
+  bio: "Michael (Miki) Lustig is a Professor in EECS. He joined the faculty of the EECS Department at UC Berkeley in Spring 2010. He received his B.Sc. in Electrical Engineering from the Technion, Israel Institute of Technology in 2002. He received his Msc and Ph.D. in Electrical Engineering from Stanford University in 2004 and 2008, respectively. His research focuses on computational imaging methods in medical imaging, particularly Magnetic Resonance Imaging (MRI). Miki is a jolly good Fellow of the Society of Magnetic Resonance in Medicine. Education
+2008, PhD, EE, Stanford University
+2004, MSc, EE, Stanford University
+2001, BSc, EE, Technion, IIT. Miki is a co-founder of InkSpace Imaging, a startup company that aims to commercialized flexible MRI coils for pediatric patients."
