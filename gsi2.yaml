@@ -1,26 +1,26 @@
--   name: Oliver Chen
-    email: ochen@
-    bio: "I am a PhD candidate in EECS working on implantable MEMS silicon neural probes for brain-machine interfaces. Outside of research, I enjoy backpacking/hiking, reading, and eating fried chicken."
-    role: Content
-    image: OliverChen.JPG
-    pronouns: he/him/his
-
 -   name: Jasmine Jan
     email: jasminejan@
-    bio: "I'm a PhD student in EECS researching printed and flexible organic optoelectronic devices in the Arias lab. My hobbies include cooking, baking, and hiking. "
-    role: Dis/Content
+    bio: "I'm a PhD student in EECS researching printed and flexible organic optoelectronic devices in the Arias lab. My hobbies include cooking, baking, and hiking."
+    role: Content
     image: JasmineJan.jpg
-    imageFun: JasmineJanFun.jpg
     pronouns: she/her/hers
--   name: Rebekah Zhao
-    email: rebekah_zhao@
-    bio: "I am a 4th year PhD student in EECS. My research interest lies at the intersection of MRI, integrated circuit design and medical implants. My current research focuses on building a neural recording implant system which communicates via MRI. Outside of work, I am enthusiastic about running and making music."
+#    imageFun: JasmineJanFun.jpg
+-   name: Rozhan Rabbani
+    email: rozhan_rabbani@
+    bio: "I am a 5th year PhD student in EECS, INC. I'm very excited about coming up with integrated circuit solutions in cancer therapy. Currently, I'm working on designing an implantable image sensor for fluorescence microscopy. In my free time, I enjoy biking and making origamis!"
+    role: Dis
+    image: RozhanRabbani.jpg
+    pronouns: she/her/hers
+-   name: Amit Kohli #middle name question
+    email: apkohli@
+    bio: "I am 3rd year PhD student in the EECS department. I study and design robust computational imaging systems with applications in biological and space imaging. In my free time I love to make music and dance!"
     role: Dis/Content
-    image: RebekahZhao.jpg
-    pronouns: she/her/hers
--   name: Ekin Karasan
-    email: ekin_karasan@
-    bio: "Hi! I'm a fourth year PhD student in EECS. My research focuses on developing new tools and techniques for magnetic resonance imaging. In my free time, I enjoy playing tennis, running and watching tv."
+    image: AmitKohli.jpg
+    pronouns: he/him/his
+-   name: Alfredo de Goyeneche #middle name question
+    email: adg@
+    bio: "Hi everyone! I'm a third year PhD student in EECS working with Prof. Miki Lustig. My research focuses on developing new machine learning techniques and biofeedback for magnetic resonance imaging. I enjoy snowboarding/skiing, and spending time with my dog!"
     role: Dis/Content
-    image: EkinKarasan.jpg
-    pronouns: she/her/hers
+    image: AlfredoDeGoyeneche.jpg
+    imageFun: AlfredoDeGoyenecheFun.jpg
+    pronouns: he/him/his
