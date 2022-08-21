@@ -1,6 +1,6 @@
 -   name: Aniruddh Khanwale
     email: akhanwale@
-    bio: "Hi friends! I'm a third year EECS & Materials Science (MSE) Major, and I'm super excited to help teach 16A this semester! In my free time, I do computational MSE research, participate in various community organizations on campus, and listen to Bollywood music. 16A helped teach me the valuable skill of decomposing complex problems into understandable pieces. I can't wait to help contribute to your 16A experience!"
+    bio: "Hello! My name is Aniruddh, and I'm a 4th Year Materials Science & EECS Major from sunny San Diego! This is my third year on staff, and every semester has been better than the last! In my free time, I enjoy cooking, reading, and going on hikes in the hills. Come talk to me if you're interested in learning about all the cool upper divs at Cal (EECS or otherwise), getting involved in research, or you're just bored :) Looking forward to another amazing semester!"
     role: Head/Dis
     image: AniruddhKhanwale.png
     imageFun: AniruddhKhanwaleFun.jpeg
@@ -21,9 +21,10 @@
     pronouns: he/him/his
 -   name: Shreyash Iyengar
     email: shreyash2106@
-    bio: "Hey everyone! I'm Shreyash, a junior EECS Major. I am from India but I was born and brought up in Abu Dhabi, UAE. My academic interests are Cloud/High Performance Computing, Control Systems and Autonomous Vehicles. Outside of academics, my interests lie mainly in sports and music. My top bands are Led Zeppelin, AC/DC and Guns N' Roses! My fav sports are soccer, cricket, combat sports and tennis!"
+    bio: "Hey everyone! I'm Shreyash, a senior EECS Major. I am from India but I was born and brought up in Abu Dhabi, UAE. My academic interests are Computer Vision, Cloud/High Performance Computing, and Control Systems. Outside of academics, my interests lie mainly in sports and music. My top bands are Led Zeppelin, AC/DC and Guns N' Roses! My fav sports are soccer, cricket, combat sports and tennis!"
     role: Head Lab
     image: ShreyashIyengar.jpg
+    imageFun: ShreyashIyengarFun.jpg
     pronouns: he/him/his
 -   name: Dahlia Saba
     email: dahliasaba@
@@ -148,15 +149,16 @@ Feel free to reach out to me if you have any questions!"
     role: Dis/Content
     image: AnvithaKachinthaya.JPG
     pronouns: she/her/hers
--   name: Ameya Kunder
-    email: placeholder@
-    bio: "placeholder"
-    role: Dis
-    image: AmeyaKunder.jpg
-    pronouns: placeholder
 -   name: Joyce Zhu
-    email: placeholder@
-    bio: "placeholder"
+    email: jzhu0226@
+    bio: "Hi! I’m Joyce, I’m a third year CS major originally from Minnesota. Some things I like doing in my free time are figure skating, volleyball and spending too much time and money on my pet hamsters. I’m really looking forward to meeting you all, feel free to ask me any questions you may have at any time:) and the last statement in Ameya’s bio is true."
     role: Lab
     image: JoyceZhu.jpg
-    pronouns: placeholder
+    pronouns: she/her/hers
+-   name: Ameya Kunder
+    email: a.kunder@
+    bio: "Henlo! I am a senior studying Physics and Computer Science. Never been good at writing bios so if you wanna know more about me or have any questions, feel free to come to my section or OH! And by the way, the last statement in Joyce's bio is false."
+    role: Dis
+    image: AmeyaKunder.jpg
+    imageFun: AmeyaKunderFun.jpg
+    pronouns: he/him/his
