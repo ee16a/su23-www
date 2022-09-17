@@ -13,18 +13,24 @@
     imageFun: AustinPatelFun.png
     pronouns: he/him/his
 -   name: Ayush Pancholy
-    email: ayush.pancholy@
+    email: eecs16a.lab@, ayush.pancholy@
     bio: "Hi, everyone! I'm a fourth year CS major and physics minor—my technical interests include computational linguistics, computational physics, and quantum computing. Outside the classroom, I love Latin literature, all things Tolkien, and ice hockey! I'm always happy to discuss my research, good reading material, sports, or anything else that's on your mind."
     role: Head Lab
     image: AyushPancholy.jpg
     imageFun: AyushPancholyFun.jpg
     pronouns: he/him/his
 -   name: Shreyash Iyengar
-    email: shreyash2106@
+    email: eecs16a.lab@, shreyash2106@
     bio: "Hey everyone! I'm Shreyash, a senior EECS Major. I am from India but I was born and brought up in Abu Dhabi, UAE. My academic interests are Computer Vision, Cloud/High Performance Computing, and Control Systems. Outside of academics, my interests lie mainly in sports and music. My top bands are Led Zeppelin, AC/DC and Guns N' Roses! My fav sports are soccer, cricket, combat sports and tennis!"
     role: Head Lab
     image: ShreyashIyengar.jpg
     imageFun: ShreyashIyengarFun.jpg
+    pronouns: he/him/his
+-   name: Avikam Chauhan
+    email: eecs16a.homework@, avikam@
+    bio: "Hello! I'm a 3rd year CS major from the Bay Area. EECS 16A has been one of my favorite classes at Berkeley, because of its fusion of math and electrical engineering concepts with exciting real-world applications. I'm super excited to help teach it this semester! In my free time, I enjoy sports (swimming, skiing, tennis), listening to music, and playing video games. Feel free to email me about anything, I'd love to chat :)"
+    role: HW/Dis
+    image: AvikamChauhan.jpg
     pronouns: he/him/his
 -   name: Dahlia Saba
     email: dahliasaba@
@@ -136,12 +142,6 @@ Feel free to reach out to me if you have any questions!"
     role: Lab
     image: ShumingXu.jpg
     imageFun: ShumingXuFun.jpg
-    pronouns: he/him/his
--   name: Avikam Chauhan
-    email: avikam.chauhan@
-    bio: "Hello! I'm a 3rd year CS major from the Bay Area. EECS 16A has been one of my favorite classes at Berkeley, because of its fusion of math and electrical engineering concepts with exciting real-world applications. I'm super excited to help teach it this semester! In my free time, I enjoy sports (swimming, skiing, tennis), listening to music, and playing video games. Feel free to email me about anything, I'd love to chat :)"
-    role: HW/Dis
-    image: AvikamChauhan.jpg
     pronouns: he/him/his
 -   name: Anvitha Kachinthaya
     email: anvitha@
