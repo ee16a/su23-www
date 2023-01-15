@@ -1,32 +1,24 @@
--   name: Jasmine Jan
-    email: jasminejan@
-    bio: "I'm a PhD student in EECS researching printed and flexible organic optoelectronic devices in the Arias lab. My hobbies include cooking, baking, and hiking."
-    role: Content
-    image: JasmineJan.jpg
-    pronouns: she/her/hers
-#    imageFun: JasmineJanFun.jpg
--   name: Rozhan Rabbani
-    email: rozhan_rabbani@
-    bio: "I am a 5th year PhD student in EECS, INC. I'm very excited about coming up with integrated circuit solutions in cancer therapy. Currently, I'm working on designing an implantable image sensor for fluorescence microscopy. In my free time, I enjoy biking and making origamis!"
-    role: Dis
-    image: RozhanRabbani.jpg
-    pronouns: she/her/hers
--   name: Amit Kohli #middle name question
+-   name: Amit Kohli
     email: apkohli@
     bio: "I am 3rd year PhD student in the EECS department. I study and design robust computational imaging systems with applications in biological and space imaging. In my free time I love to make music and dance!"
-    role: Dis/Content
+    role: Content
     image: AmitKohli.jpg
     pronouns: he/him/his
--   name: Alfredo De Goyeneche #middle name question
-    email: adg@
-    bio: "Hi everyone! I'm a third year PhD student in EECS working with Prof. Miki Lustig. My research focuses on developing new machine learning techniques and biofeedback for magnetic resonance imaging. I enjoy snowboarding/skiing, and spending time with my dog!"
+-   name: Tiffany Chien
+    email: tiffany_chien@
+    bio: "I'm a second year EECS PhD student in Laura Waller's group who once took 16A long long ago. My research is on computational techniques for imaging stuff that changes over time, for electron microscopes and other computational imaging systems. I enjoy rock climbing, darkroom film photography, and cats."
     role: Dis/Content
-    image: AlfredoDeGoyeneche.jpg
-    imageFun: AlfredoDeGoyenecheFun.jpg
+    image: TiffanyChien.jpg
+    pronouns: she/her/hers
+-   name: Youbin Kim
+    email: youbin_kim@
+    bio: "I'm a 5th year PhD student in EECS! My research is on designing digital processors and accelerators for AI applications. Outside of EECS16A and my research, you can find me skiing in Tahoe."
+    role: Dis/Content
+    image: YoubinKim.jpg
     pronouns: he/him/his
 -   name: Nathan Brooks
     email: nathanbrooks@
-    bio: "I'm a 7th year PhD student in EECS working on power electronics modeling and design for electric vehicles and datacenters. Lately I've been enjoying rock climbing and swimming in my free time."
+    bio: "I'm a 7th year PhD student in EECS working on power electronics design for electric vehicles and datacenters. I enjoy rock climbing and swimming in my free time."
     role: Dis/Content
     image: NathanBrooks.png
     pronouns: he/him/his
