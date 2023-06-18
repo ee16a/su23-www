@@ -123,7 +123,7 @@ function getCurrFont() {
         </p> -->
 
 
-    <p>All information regarding policies for the course are on this page as well as on Ed posts. We also have 3 special emails for various purposes. Where applicable, please use these emails so that all relevant course staff can view the message. Note that we prefer for technical or content questions to go on Ed and private/personal questions via email! <b>Please make sure you have consulted this entire policies page before contacting course staff.</b></p>
+    <p>All information regarding policies for the course are on this page as well as on Ed posts. We have three special emails for various purposes. Where applicable, please use these emails so that all relevant course staff can view the message. Note that we prefer for technical or content questions to go on Ed and private/personal questions to be asked via email! <b>Please make sure you have consulted this entire policies page before contacting course staff.</b></p>
     <ul>
         <li><b>eecs16a.homework@</b>: for any homework-related questions or concerns</li>
         <li><b>eecs16a.lab@</b>: for any lab-related questions or concerns</li>
@@ -139,7 +139,7 @@ function getCurrFont() {
         Our objective is to help you become the best engineer you can be, and grades are not everything. The various
         components of the class -- homework, labs and exams -- are designed explicitly with this in mind. Every
         challenge is a growth opportunity. You will have the opportunity to gain points in the course through completing
-        your homework and attending labs as well as through the exams. We will periodically update <a href="http://status.eecs16a.org">Status Check</a> with your grades throughout the semester so you can keep track of your grades in the course and identify any grading issues.
+        your homework and attending labs as well as through the exams.
     </p>
     <p>
         This course is not graded on a curve. We will set absolute thresholds for performance that will map to grade
@@ -216,10 +216,12 @@ function getCurrFont() {
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
           ['Category', 'Points'],
-          ['Homework', 35],
-          ['Labs', 55],
-          ['Midterm 1', 55],
-          ['Midterm 2', 55],
+          ['Lecture Participation', 5],
+          ['Discussion Attendance', 5],
+          ['Homework', 45],
+          ['Labs', 45],
+          ['Quest', 40],
+          ['Midterm', 60],
           ['Final', 100]
         ]);
 
@@ -251,58 +253,58 @@ function getCurrFont() {
     <a class="anchor" id="gradeScale"></a>
     <p>
         This course is not curved. As set by the university, you need a C- or better to pass the class if you take the class PNP and a D- or better to pass if you take the course for a letter grade (though please check for policies specific to your major). We define the following grading scale (in percentages):
-    <table class="table table-bordered table-striped" style="width: 30%">
-        <tbody>
-        <tr>
-            <td style="background: #c4cef2">A+</td>
-            <td>[93+)</td>
-            <td style="background: #c4cef2">A</td>
-            <td>[90+)</td>
-            <td style="background: #c4cef2">A-</td>
-            <td>[+)</td>
-        </tr>
-        </tbody>
-        <tbody>
-        <tr>
-            <td style="background: #c4cef2">B+</td>
-            <td>[84+)</td>
-            <td style="background: #c4cef2">B</td>
-            <td>[75+)</td>
-            <td style="background: #c4cef2">B-</td>
-            <td>[68+)</td>
-        </tr>
-        </tbody>
-        <tbody>
-        <tr>
-            <td style="background: #c4cef2">C+</td>
-            <td>[65+)</td>
-            <td style="background: #c4cef2">C</td>
-            <td>[62+)</td>
-            <td style="background: #c4cef2">C-</td>
-            <td>[58+)</td>
-        </tr>
-        </tbody>
-        <tbody>
-        <tr>
-            <td style="background: #c4cef2">D+</td>
-            <td>[57+)</td>
-            <td style="background: #c4cef2">D</td>
-            <td>[55+)</td>
-            <td style="background: #c4cef2">D-</td>
-            <td>[53+)</td>
-        </tr>
-        </tbody>
-        <tbody>
-        <tr>
-            <td style="background: #c4cef2">F</td>
-            <td>[0-, 53)</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        </tbody>
-    </table>
+        <table class="table table-bordered table-striped" style="width: 30%">
+            <tbody>
+            <tr>
+                <td></td>
+                <td></td>
+                <td style="background: #c4cef2">A</td>
+                <td>[93+)</td>
+                <td style="background: #c4cef2">A-</td>
+                <td>[90+)</td>
+            </tr>
+            </tbody>
+            <tbody>
+            <tr>
+                <td style="background: #c4cef2">B+</td>
+                <td>[84+)</td>
+                <td style="background: #c4cef2">B</td>
+                <td>[75+)</td>
+                <td style="background: #c4cef2">B-</td>
+                <td>[68+)</td>
+            </tr>
+            </tbody>
+            <tbody>
+            <tr>
+                <td style="background: #c4cef2">C+</td>
+                <td>[65+)</td>
+                <td style="background: #c4cef2">C</td>
+                <td>[62+)</td>
+                <td style="background: #c4cef2">C-</td>
+                <td>[58+)</td>
+            </tr>
+            </tbody>
+            <tbody>
+            <tr>
+                <td style="background: #c4cef2">D+</td>
+                <td>[57+)</td>
+                <td style="background: #c4cef2">D</td>
+                <td>[55+)</td>
+                <td style="background: #c4cef2">D-</td>
+                <td>[53+)</td>
+            </tr>
+            </tbody>
+            <tbody>
+            <tr>
+                <td style="background: #c4cef2">F</td>
+                <td>[0-, 53)</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            </tbody>
+        </table>
     </p>
 
     <h3>Exam Clobber Policy</h3>
@@ -312,17 +314,17 @@ function getCurrFont() {
         and consistent effort and investment are critical to your success in this class.
     </p>
     <p>
-        To give students a ‘second chance’, we will provide the opportunity to clobber a midterm to <b>students who
-        complete an optional midterm redo. If you do not complete the midterm redo, you will not qualify for the clobber. </b>
+        To give students a ‘second chance’, we will provide the opportunity to clobber their quest or midterm to <b>students who
+        complete an optional quest or midterm redo. If you do not complete the exam redo, you will not qualify for the clobber. </b>
     </p>
     <p>
-        For each midterm, if you complete the midterm redo, we will replace your corresponding midterm score with your scaled final exam score if it would help your grade (this is a "full clobber" of your midterm score with your final score). You are able to clobber both midterms with your final exam score if you complete both midterm redo assignments. We will use the following formula:
+        For each exam, if you complete the exam redo, we will replace your corresponding exam score with your scaled final exam score if it would help your grade (this is a "full clobber" of your exam score with your final score). You are able to clobber both the quest and the midterm with your final exam score if you complete both exam redo assignments. We will use the following formula:
     </p>
     <p>
-        <i>clobbered midterm score = max(original midterm score, scaled score on final exam)</i>
+        <i>clobbered exam score = max(original exam score, scaled score on final exam)</i>
     </p>
     <p>
-        For example, if you score 50% on the first midterm (0.5*55 = 27.5 points) and 80% on the final, then you midterm 1 score will be instead set to 0.8*55 = 44 points (as opposed to getting a 27.5).
+        For example, if you score 50% on the midterm (0.5*55 = 27.5 points) and 80% on the final, then you midterm score will be instead set to 0.8*55 = 44 points (as opposed to getting a 27.5).
     </p>
 
     <h3>Homework (HW) Party and Office Hours (OH)</h3>
@@ -338,14 +340,13 @@ function getCurrFont() {
         use this as an opportunity to learn from one another.
     </p>
     <p>
-        <b>HW party will be held each Friday from 9-11 AM in Wozniak Lounge (430-438 Soda Hall). Attending
+        <b>Homework party will be held each Friday from 10AM-12PM in Cory 144MA. Attending
             homework party is highly encouraged and is a great way to find a study group!</b> Students are expected to
         help each other out and collaborate.
         <!-- ; please see <a href="https://piazza.com/class/ke3aj8z75apb0?cid=131">this Piazza Post</a> for details. -->
     </p>
     <p>
-        Office Hours will be held almost every day, as annotated on the course Google calendar. You can come to office
-        hours with your study groups, or by yourself -- there will be one or more TAs there to help you work through the
+        You can come to office hours with your study groups, or by yourself -- there will be one or more TAs there to help you work through
         concepts or the homework! All office hours will be held in-person in Cory 144MA. During office hours, please put yourself on the wait queue available here <a href="https://oh.eecs16a.org">oh.eecs16a.org</a> (some TAs may not be using this wait queue if there are not many students present in OH, check in with the TA).
     </p>
     <p>
@@ -368,7 +369,7 @@ function getCurrFont() {
             questions about the format of a homework submission, please go to office hours or homework party. We will
             provide HW accommodations for students who have letters of accommodations from DSP services indicating extensions on homework assignments.
         </li>
-        <li><b>Slip Day Policy + Late Submissions.</b> Students in 16A will have 6 slip days they can use across the entire semester (3 slip days for EECS47D students). Slip days allow you to submit your homework past the Friday deadline on either Saturday by 11:59 PM PT (using 1 slip day) or on Sunday by 11:59 PM PT (using 2 slip days). Note that you may you at most 2 slip days for any homework assignment. You do not need to inform us that you are using your slip days as we will keep track of this internally based on when you submit on Gradescope. We have this slip day policy to account for situations out of your control that prevent you from submitting the homework on time. If you use slip days your assignment will be marked as late on Gradescope, but your grade will not be penalized for using slip days, nor will you benefit from keeping slip days at the end of the semester. Please budget slip days accordingly as no additional slip days will be provided. <b>In no cases will we accept late homework beyond Sunday (beyond 2 slip days) for any reason.</b> If you run out of slip days, please submit what you have completed by Friday night as we will not be able to consider homework submitted late once you run out of slip days. Note that we have homework drops available if you are unable to submit an assignment due to extenuating circumstances (see further below). </li>
+        <li><b>Slip Day Policy + Late Submissions.</b> Students in 16A will have 6 slip days they can use across the entire semester. Slip days allow you to submit your homework past the Friday deadline on either Saturday by 11:59 PM PT (using 1 slip day) or on Sunday by 11:59 PM PT (using 2 slip days). Note that you may use at most 2 slip days for any homework assignment. You do not need to inform us that you are using your slip days as we will keep track of this internally based on when you submit on Gradescope. We have this slip day policy to account for situations out of your control that prevent you from submitting the homework on time. If you use slip days, your assignment will be marked as late on Gradescope, but your grade will not be penalized for using slip days, nor will you benefit from keeping slip days at the end of the semester. Please budget slip days accordingly as no additional slip days will be provided. <b>In no cases will we accept late homework beyond Sunday (beyond 2 slip days) for any reason.</b> If you run out of slip days, please submit what you have completed by Friday night as we will not be able to consider homework submitted late once you run out of slip days. Note that we have one homework drop available if you are unable to submit an assignment due to extenuating circumstances (see further below). </li>
         <li><b>Read the solutions.</b> Official solutions will be released the following Monday morning.</li>
         <li><b>Do the self-grade.</b> Grade your submitted work accordingly for every part of every problem in the
             homework on a simple coarse scale as described in the table below. Enter your self-grades into the posted
@@ -433,7 +434,7 @@ function getCurrFont() {
         <li><b>Submit the self-grade by the Friday night following the homework deadline at 11:59 PM Pacific Time.</b>
             (For example: Homework 0 is due on Friday 1/20 at 11:59 PM. The following Friday, 1/27, at 11:59 PM, your
             Homework 0 self-grades will be due.) <b>We will accept late self-grades up to a week after the original
-                self-grade deadline for 75% credit on the associated homework assignment.</b> If you don't enter a proper
+                self-grade deadline for 75% credit on the associated homework assignment.</b> If you don't submit a
             self-grade after one week, you are giving yourself a zero on that assignment.
         </li>
     </ol>
@@ -593,16 +594,15 @@ function getCurrFont() {
     <img src="img/selfgrade_formula.PNG" width="700" style="margin-right:auto;margin-left:auto;">
 
     <p>
-        <b>We will automatically drop your lowest two homework scores (only 1 homework drop for EECS47D students) from your final grade calculation.</b> These drop are meant for emergencies in which you are not able to submit a homework. If you have already used both of your homework drops we will not be able to provide any further drops for any reason.
+        <b>We will automatically drop your single lowest homework score from your final grade calculation.</b> This drop is meant for emergencies in which you are not able to submit a homework. If you have already used your homework drop, we will not be able to provide any further drops for any reason.
     </p>
     </a>
 
     <h3>Participation in Discussion</h3>
     <a class="anchor" id="participation"></a>
     <p>
-        Discussion is a key component to learning the material in this class. Every week, discussion will be held on Monday
-        and Wednesday. Different material will be covered on Monday and Wednesday, so you are encouraged to attend on
-        both days. You may choose to attend any discussion section on a given day, and are encouraged to try out several
+        Discussion is a key component to learning the material in this class. Every week, discussion will be held on Monday, Tuesday, Wednesday, and Thursday. Different material will be covered on each day, so you are expected to attend on
+        all four days. You may choose to attend any discussion section on a given day, and are encouraged to try out
         different TAs’ discussion sections to find which one works best for you. All discussions will take place in person and material covered on discussion worksheets is in scope for the exams.
     </p>
 <!--    <p>-->
@@ -617,15 +617,15 @@ function getCurrFont() {
 <!--        this category.-->
 <!--    </p>-->
     <p>
-        Discussion attendance is not part of your course grade, but we highly encourage you to attend sections as it's a great opportunity to learn and solidify course material is a smaller classroom setting.
+        Discussion participation is worth a maximum of 5 points. This is measured by discussion attendance. For each discussion section that you attend, you will fill out an attendance form to count your participation. You must attend 16 discussion sections to get full participation points. Please note that this number is the minimum required for full credit, but you are highly encouraged to attend every discussion.
+        If you do not get full credit, your grade will be calculated by the number of discussions you have attended; e.g., if you attend 14 discussions, you will have 14/16 * 5 = 4.4 points in this category.
     </p>
-
 
     <h3>Lab Policies</h3>
     <a class="anchor" id="labDiscussion"></a>
     <p>
         Labs this semester will be held in-person, except where otherwise stated on Ed. Labs for this class are not open
-        section, <b>you must go to your assigned lab section</b>. Lab assignments will be determined at the start of the semester.
+        section, <b>you must go to your enrolled lab section</b>.
     </p>
     <p>
         Credit for each lab is based on completion and checkoff with a member of lab staff during your assigned lab
@@ -633,9 +633,9 @@ function getCurrFont() {
         related to the lab. You should aim to get checked off by the end of your lab section. If (and only if) you
         attend your lab section for the whole duration but do not finish in time, you may get checked off at the
         beginning of your next lab section before starting the following lab. We have the following grading policy for
-        labs: If you complete all the labs, you will receive full lab credit. If you fail to complete one lab, you will
-        receive almost full 54/55 lab credit. If you miss two labs, you will receive 52/55. If you miss three labs, you
-        will receive 28/55 (half credit). If you miss four or more labs, you will get an F in the class.
+        labs: if you complete all the labs, you will receive full lab credit. If you fail to complete one lab, you will
+        receive almost full 44/45 lab credit. If you miss two labs, you will receive 42/45. If you miss three labs, you
+        will receive 23/45 (half credit). If you miss four or more labs, you will get an F in the class.
         </b>
     </p>
 
@@ -701,7 +701,7 @@ function getCurrFont() {
         <table>
             <tr>
                 <td class="center txt"><b>Planar</b></td>
-                <td class="center txt"><b>Non-planar</b></td>
+                <td class="center txt"><b>Non-Planar</b></td>
             </tr>
             <tr>
                 <td><img src="img/neatbb.png" height="300" width="350"></td>
@@ -713,14 +713,13 @@ function getCurrFont() {
 
     <h3>Exam Policies</h3>
     <a class="anchor" id="exampolicy"></a>
-    <p> <b> There are two midterm exams (a 1.5-hour quest and a 2-hour midterm) and one final exam (3 hours). All exams will be held in-person. <ul> <li> Quest: Monday, July 10th, 2023, 9:30am-11am in 2040 VLSB (Valley Life Sciences Building) (during lecture) </li> <li> Midterm: Monday, July 4th, 2023, 5pm-7pm in 145 Dwinelle Hall </li> <li> Final: Wednesday, August 9th, 2023, 6pm-9pm in 2040 VLSB </li> </ul> </b> </p>
+    <p> <b> There are two midterm exams (a 1.5-hour quest and a 2-hour midterm) and one final exam (3 hours). All exams will be held in-person. <ul> <li> Quest: Monday, July 10th, 2023, 9:30am-11am in 2040 VLSB (Valley Life Sciences Building) (during lecture) </li> <li> Midterm: Monday, July 4th, 2023, 5pm-7pm in 145 Dwinelle Hall </li> <li> Final: Wednesday, August 9th, 2023, 6pm-9pm in 2040 VLSB </li> </ul> If you need to request an alternate time for any exam, you must do so by emailing eecs16a@berkeley.edu by June 30, 2023 and we will let you know ASAP if it is approved. There will be no accommodations provided after this date. </b> </p>
     <p><b>Makeup midterms and final exams will not be scheduled and there will be no alternate exam times. Please contact us privately if you have any concerns.</b></p>
     <p>
-        In case of an emergency on exam day, please email the Head GSI at <a rel="noopener noreferrer" target="_blank"
+        In case of an emergency on exam day, please email the instructors at <a rel="noopener noreferrer" target="_blank"
                                                                              href="mailto:eecs16a@berkeley.edu">eecs16a@berkeley.edu</a>
         as soon as possible and provide details of your situation. Emergency exam conflicts
-        will be handled on a case-by-case basis. Exam conflicts originating from a lecture conflict will not be
-        accommodated.
+        will be handled on a case-by-case basis.
     </p>
     <p>
         Regrade requests are open for a few days after exam scores are released. Late regrade requests will not be
@@ -728,33 +727,30 @@ function getCurrFont() {
         right to regrade the entire exam and could potentially take points off.
     </p>
     <p>
-        Exams will be completely open-note and open-book – you are allowed to bring any hard-copy resources with you to
-        help you on the exam. However, while you can bring other materials with you to the exam, you are strongly
-        encouraged to make a condensed cheat sheet of only one or two pages ahead of the exam, as the process of
-        creating a cheat sheet can be a great way to study for an exam. No calculators, smartwatches, or other electronics will be allowed during the exam.
+        For each exam, you will be allowed to bring cheat sheets with handwritten notes on the front and back: 1 8.5x11 sheet of paper for the quest, 2 8.5x11 sheets of paper for the midterm, and 3 8.5x11 sheets of paper for the final. The process of creating these notes sheets is a useful way of studying for the exam. You should also bring your student ID and writing utensils (pencils/pens).
+        No calculators, smartwatches, or other electronics will be allowed during the exam.
     </p>
 
     <h3>Academic Honesty</h3>
     <p>
         We treat all our students with utmost trust and respect, and expect students to return the same trust and
         respect. In EECS16A we will have <u>zero-tolerance</u> for academic dishonesty. There will be <u>dire
-        consequences</u> for students that violate that trust and the Berkeley code of conduct. Both professors Waller
-        and Muller are committed to enforcing academic honesty, and <u>dishonesty cases will be punished in their
-        fullest -- no excuses or special circumstances will be considered</u>. Always seek help, never cheat.
+        consequences</u> for students that violate that trust and the Berkeley code of conduct. We are committed to enforcing academic honesty,
+        and <u>dishonesty cases will be punished in their fullest -- no excuses or special circumstances will be considered</u>. Always seek help, never cheat.
     </p>
 
     <h3>Exceptions and Exam Accommodations</h3>
     <a class="anchor" id="exceptions"></a>
     <p>
-        <b>Any requests for exceptions should be emailed to the Head GSI at <a rel="noopener noreferrer" target="_blank"
+        <b>Any requests for exceptions should be emailed to the instructors at <a rel="noopener noreferrer" target="_blank"
                                                                                href="mailto:eecs16a@berkeley.edu">eecs16a@berkeley.edu</a>.</b>
         Email the exception request as soon as possible (before any deadline), as retroactive exceptions will likely not be approved.
-        Exceptions will be handled on a case-by-case basis. <b>Since there are two homework drops and a slip day policy, homework extension requests will almost certainly not be approved.</b> Examples of situations that merit an exception are medical emergencies and family emergencies. It will be easier for us to grant an exception if you have a doctor’s note or other documentation, so please send those along with your exception request. No exceptions will be granted after final exam scores have been released.
+        Exceptions will be handled on a case-by-case basis. <b>Since there is one homework drop and a slip day policy, homework extension requests will almost certainly not be approved.</b> Examples of situations that merit an exception are medical emergencies and family emergencies. It will be easier for us to grant an exception if you have a doctor’s note or other documentation, so please send those along with your exception request. No exceptions will be granted after final exam scores have been released.
     </p>
     <p>
         Accommodations will be provided to students who have letters of accommodations from DSP services and students
         facing hardships. Student hardships may include family/medical emergencies (please provide documentation for
-        your records). Please contact the Head GSI at <a rel="noopener noreferrer" target="_blank"
+        your records). Please contact the instructors at <a rel="noopener noreferrer" target="_blank"
                                                                      href="mailto:eecs16a@berkeley.edu">eecs16a@berkeley.edu</a>.
     </p>
     <!--     <p>
@@ -765,7 +761,7 @@ function getCurrFont() {
     <a class="anchor" id="communication"></a>
     <p>
         <b>The instructors and TAs will post announcements, clarifications, corrections, etc. on Ed.</b> So, you must check
-        the EECS16A Ed page frequently throughout the term. (You should already have access to the EECS16A Spring 2023 <a
+        the EECS16A Ed page frequently throughout the term. (You should already have access to the EECS16A Summer 2023 <a
             href="https://edstem.org/us/courses/40181/discussion/" target="_blank">Ed</a>. If you do not, please let us know.)
     </p>
     <p>
@@ -779,7 +775,7 @@ function getCurrFont() {
         If your question is personal or not of interest to other students, we encourage you to email us (see the top of this page for all the course emails) rather than making private Ed posts. If you wish to talk with one of us individually, you are welcome to come to our office hours. Please reserve email for the questions you can't get answered in office hours, in discussion sections, or through Ed.
     </p>
     <p>
-        <b>For any exceptions that are of a personal nature</b>, please contact the head GSI at <a
+        <b>For any exceptions that are of a personal nature</b>, please contact the instructors at <a
             rel="noopener noreferrer" target="_blank" href="mailto:eecs16a@berkeley.edu">eecs16a@berkeley.edu</a>.
         Technical and homework questions are best resolved in homework party, Ed, and during office hours.
     </p>
@@ -1012,7 +1008,8 @@ function getCurrFont() {
         notes"); not only is this a punishable violation of our collaboration policies, it also ensures you will learn a
         lot less from this course.
     </p>
-</div>    </div>
+</div>
+    </div>
   </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
