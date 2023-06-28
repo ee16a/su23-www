@@ -4,3 +4,16 @@
     role: Dis/Content
     image: ThomasChen.jpg
     pronouns: he/him/his
+-   name: Joyce Zhu
+    email: eecs16a.lab@, jzhu0226@
+    bio: "Hi! I’m Joyce, I’m a fourth year CS major from Minnesota. My technical interests include signals processing and biotech. Some things I like doing in my free time are hiking, rock climbing, napping, and spontaneously going to Trader Joe's. I've been teaching lab for the past 4 semesters and strongly believe that it's the best part of 16A, so I'm very excited to meet you all in lab!"
+    role: Head Lab
+    image: JoyceZhu.jpg
+    pronouns: she/her/hers
+-   name: Amy Song
+    email: amysong@
+    bio: "Hi! I'm a rising junior majoring in EECS. I loved taking 16A as a student and I hope you will too! In my free time, you can find me hiking, trying new drinks at SoDoI, or listening to music. Feel free to reach out to me about anything :)"
+    role: Dis
+    image: AmySong.jpg
+    imageFun: AmySongFun.jpg
+    pronouns: she/her/hers
