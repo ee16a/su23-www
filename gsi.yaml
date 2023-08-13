@@ -19,6 +19,8 @@
     pronouns: she/her/hers
 -   name: Jack Kang
     email: dongwon900@
+    bio: "Hello! My name is Jack, and I'm a rising junior majoring in CS. I'm passionate about building things, with my current technical interests being in signals, communication systems, embedded systems, and applications in art and music. I see computers as being the glue that holds together the components of a technological solution to an interesting problem, which is why I chose to study them. I also like to play guitar, make things, and explore the outdoors in my free time. I often tell my students not to suffer in silence; please don't hesitate to reach out to me in and outside of lab!"
     role: Lab
     image: JackKang.jpg
+    imageFun: JackKangFun.png
     pronouns: he/him/his

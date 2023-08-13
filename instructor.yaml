@@ -1,15 +1,15 @@
 - name: Tiffany Chien
-  email:
-  pronouns:
-  image:
-  bio:
+  email: eecs16a@, eecs16a.homework@, tiffany_chien@
+  pronouns: she/her/hers
+  image: TiffanyChien.jpg
+  bio: "I'm a third year EECS PhD student in Laura Waller's group who once took 16A long long ago. My research is on computational techniques for imaging stuff that changes over time, for electron microscopes and other computational imaging systems. I enjoy rock climbing, darkroom film photography, and cats."
 - name: Nathan Brooks
-  email:
-  pronouns:
-  image:
-  bio:
+  email: eecs16a@, eecs16a.lab@, nathanbrooks@
+  pronouns: he/him/his
+  image: NathanBrooks.png
+  bio: "I'm a 7th year PhD student in EECS working on power electronics design for electric vehicles and datacenters. I enjoy rock climbing and swimming in my free time."
 - name: Anvitha Kachinthaya
-  email:
-  pronouns:
-  image:
-  bio:
+  email: eecs16a@, anvitha@
+  pronouns: she/her/hers
+  image: AnvithaKachinthaya.JPG
+  bio: "Hello! I’m Anvitha, a fourth-year student studying EECS and Cognitive Science with interests in artificial intelligence and computational neuroscience. I’m excited for my eighth semester on course staff for EECS 16A! In my free time, you can find me reading fiction, exploring new places, baking and sharing treats, making jewelry, or learning random skills. I love how linear algebra concepts and applications come together seamlessly in 16A, and I hope you will enjoy this class too! I look forward to meeting and working with you and hope you have a wonderful experience this semester!"

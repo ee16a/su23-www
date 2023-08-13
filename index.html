@@ -1209,6 +1209,7 @@ function showFontChange(f, prev) {
           <td rowspan="4" class="center">
             APS (Tue)
             <br/>
+                 <a rel="noopener noreferrer" target="_blank" href = "lab/eecs16a_aps_prelab.pdf">Pre-Lab Reading</a> <br/>
                  <a rel="noopener noreferrer" target="_blank" href = "https://docs.google.com/presentation/d/1QBnyNWxpWFPPWr_C-WgSv1QzHtxFASoo/edit?usp&#x3D;share_link&amp;ouid&#x3D;112938830210797174385&amp;rtpof&#x3D;true&amp;sd&#x3D;true">Slides</a> <br/>
                  <a rel="noopener noreferrer" target="_blank" href = "https://drive.google.com/file/d/1SfUBN0AGU6FYipRsrrZH0-uPjvvAsa91/view?usp&#x3D;share_link">Lab Files</a> <br/>
             <br>
@@ -1387,13 +1388,9 @@ function showFontChange(f, prev) {
             Final (No Lecture)
           </td>
           <td class="center">
-                Section 8C (Wed)
-              <br/>
-
-              <br/>
-<!--              -->
-                            <br>
-              <!--              -->
+                  Section 8C (Wed)
+                <br/>
+                <p>No Section</p>
           </td>
         </tr>
         <tr>
@@ -1481,8 +1478,8 @@ document.addEventListener('DOMContentLoaded', function() {
           <li active><a href="lecture/Note20.pdf">Note 20 - Op-Amp Current Source and Circuit Design</a></li>
           <li active><a href="lecture/Note21.pdf">Note 21 - Inner Products and GPS</a></li>
           <li active><a href="lecture/Note22.pdf">Note 22 - Trilateration and Correlation</a></li>
-          <li><a href="lecture/Note23.pdf">Note 23 - Least Squares</a></li>
-          <li><a href="lecture/Note25.pdf">Note 25 - More Trilateration</a></li>
+          <li active><a href="lecture/Note23.pdf">Note 23 - Least Squares</a></li>
+          <li active><a href="lecture/Note25.pdf">Note 25 - More Trilateration</a></li>
     </ul>
   </div>
 </div>
@@ -2460,31 +2457,40 @@ div.indentlarge {
   <li><b>eecs16a.lab@</b>: for any lab-related questions or concerns</li>
   <li><b>eecs16a@</b>: for anything else (including exam-related/administrative questions or concerns)</li>
 </ul>
-<h3>Instructor</h3>
+<h3>Instructors</h3>
 <div class='row'>
   <div class='center col-md-4 col-sm-4 col-xs-6 bottomspace'>
-    <img class='headshot img-circle' src='photos-instructor/'/></a>
+    <img class='headshot img-circle' src='photos-instructor/TiffanyChien.jpg'/></a>
     <br/>
-    <br>
+    <button type="button" class="gsicollapsible">Click to Toggle Bio!</button>
+    <div class="gsicontent">
+      <p><small>I&#x27;m a third year EECS PhD student in Laura Waller&#x27;s group who once took 16A long long ago. My research is on computational techniques for imaging stuff that changes over time, for electron microscopes and other computational imaging systems. I enjoy rock climbing, darkroom film photography, and cats.</small></p>
+    </div>
     <b>Tiffany Chien</b><br/>
-    <small>  </small> <br/>
-
+    <small> she/her/hers </small> <br/>
+    eecs16a@, eecs16a.homework@, tiffany_chien@
   </div>
   <div class='center col-md-4 col-sm-4 col-xs-6 bottomspace'>
-    <img class='headshot img-circle' src='photos-instructor/'/></a>
+    <img class='headshot img-circle' src='photos-instructor/NathanBrooks.png'/></a>
     <br/>
-    <br>
+    <button type="button" class="gsicollapsible">Click to Toggle Bio!</button>
+    <div class="gsicontent">
+      <p><small>I&#x27;m a 7th year PhD student in EECS working on power electronics design for electric vehicles and datacenters. I enjoy rock climbing and swimming in my free time.</small></p>
+    </div>
     <b>Nathan Brooks</b><br/>
-    <small>  </small> <br/>
-
+    <small> he/him/his </small> <br/>
+    eecs16a@, eecs16a.lab@, nathanbrooks@
   </div>
   <div class='center col-md-4 col-sm-4 col-xs-6 bottomspace'>
-    <img class='headshot img-circle' src='photos-instructor/'/></a>
+    <img class='headshot img-circle' src='photos-instructor/AnvithaKachinthaya.JPG'/></a>
     <br/>
-    <br>
+    <button type="button" class="gsicollapsible">Click to Toggle Bio!</button>
+    <div class="gsicontent">
+      <p><small>Hello! I’m Anvitha, a fourth-year student studying EECS and Cognitive Science with interests in artificial intelligence and computational neuroscience. I’m excited for my eighth semester on course staff for EECS 16A! In my free time, you can find me reading fiction, exploring new places, baking and sharing treats, making jewelry, or learning random skills. I love how linear algebra concepts and applications come together seamlessly in 16A, and I hope you will enjoy this class too! I look forward to meeting and working with you and hope you have a wonderful experience this semester!</small></p>
+    </div>
     <b>Anvitha Kachinthaya</b><br/>
-    <small>  </small> <br/>
-
+    <small> she/her/hers </small> <br/>
+    eecs16a@, anvitha@
   </div>
 </div>
 
@@ -2525,15 +2531,76 @@ div.indentlarge {
     amysong@
     </div>
       <div class='col-md-3 center col-sm-4 col-xs-6 bottomspace'>
-        <img class='headshot img-circle' src='photos-gsi/JackKang.jpg' id="gsi3" data-toggle="modal" data-target="#modal_gsi3"/>
-      <br>
+        <img class='headshot img-circle' src='photos-gsi/JackKang.jpg' onmouseover="this.src='photos-gsi/fun/JackKangFun.png'" onmouseout="this.src='photos-gsi/JackKang.jpg'" id="gsi3" data-toggle="modal" data-target="#modal_gsi3"/>
+      <button type="button" class="gsicollapsible">Click to Toggle Bio!</button>
+      <div class="gsicontent">
+        <p><small>Hello! My name is Jack, and I&#x27;m a rising junior majoring in CS. I&#x27;m passionate about building things, with my current technical interests being in signals, communication systems, embedded systems, and applications in art and music. I see computers as being the glue that holds together the components of a technological solution to an interesting problem, which is why I chose to study them. I also like to play guitar, make things, and explore the outdoors in my free time. I often tell my students not to suffer in silence; please don&#x27;t hesitate to reach out to me in and outside of lab!</small></p>
+      </div>
     <b>Jack Kang</b><br/>
     Lab<br/>
     <small> he/him/his </small> <br/>
     dongwon900@
     </div>
 </div>
+
+<h3>Tutors</h3>
+<br> <br>
 <div class='row' style="margin-top: -20px;">
+      <div class='col-md-3 center col-sm-4 col-xs-6 bottomspace'>
+        <img class='headshot img-circle' src='photos-gsi/SooHyukCho.jpg' onmouseover="this.src='photos-gsi/fun/SooHyukChoFun.jpg'"  onmouseout="this.src='photos-gsi/SooHyukCho.jpg'" id="gsi0" data-toggle="modal" data-target="#modal_gsi0"/>
+      <button type="button" class="gsicollapsible">Click to Toggle Bio!</button>
+      <div class="gsicontent">
+        <p><small>Hi everyone! My name is SooHyuk and I am a rising junior studying Computer Science and Data Science from Seoul, South Korea. This is my 3rd semester on the 16A staff team. I&#x27;m interested in various fields of EECS--from computer architecture to machine learning! I really enjoyed 16A and its approach to combine linear algebra and circuit knowledge for real-world problems when I took it as a student. In my free time, I enjoy playing the piano, swimming, and just walking around the campus! Super excited to serve as a tutor for 16A this summer!</small></p>
+      </div>
+    <b>SooHyuk Cho</b><br/>
+    Tutor<br/>
+    <small> he/him/his </small> <br/>
+    soohyuk.cho@
+    </div>
+      <div class='col-md-3 center col-sm-4 col-xs-6 bottomspace'>
+        <img class='headshot img-circle' src='photos-gsi/AnishDhanashekar.png' onmouseover="this.src='photos-gsi/fun/AnishDhanashekarFun.jpeg'"  onmouseout="this.src='photos-gsi/AnishDhanashekar.png'" id="gsi1" data-toggle="modal" data-target="#modal_gsi1"/>
+      <button type="button" class="gsicollapsible">Click to Toggle Bio!</button>
+      <div class="gsicontent">
+        <p><small>Hey everyone! I’m Anish! I’m a rising 3rd year EECS major from Tampa, Florida. I’m super excited to serve as a Lab ASE for 16A this summer and contribute to making this course a great experience for you! I thoroughly enjoyed the labs in 16A and hope you find appreciation for them as well! Outside the classroom, I enjoy hanging out with friends, watching football (Tampa Bay Buccaneers), listening to music (pop, hip-hop, and rap), and traveling. My technical interests include robotics, machine learning, and chip design. I look forward to meeting you!</small></p>
+      </div>
+    <b>Anish Dhanashekar</b><br/>
+    Lab ASE<br/>
+    <small> he/him/his </small> <br/>
+    aeroanish@
+    </div>
+      <div class='col-md-3 center col-sm-4 col-xs-6 bottomspace'>
+        <img class='headshot img-circle' src='photos-gsi/AlexanderDi.jpg' id="gsi2" data-toggle="modal" data-target="#modal_gsi2"/>
+      <button type="button" class="gsicollapsible">Click to Toggle Bio!</button>
+      <div class="gsicontent">
+        <p><small>I&#x27;m a rising junior studying EECS and chemistry. Aside from microelectronics and embedded systems, you can find me enjoying origami folding and tennis. Excited to meet you all this summer!</small></p>
+      </div>
+    <b>Alexander Di</b><br/>
+    Lab ASE<br/>
+    <small> he/him/his </small> <br/>
+    alexanderdi@
+    </div>
+      <div class='col-md-3 center col-sm-4 col-xs-6 bottomspace'>
+        <img class='headshot img-circle' src='photos-gsi/OscarAlbertoTapiaGallegos.png' id="gsi3" data-toggle="modal" data-target="#modal_gsi3"/>
+      <button type="button" class="gsicollapsible">Click to Toggle Bio!</button>
+      <div class="gsicontent">
+        <p><small>Hello! I&#x27;m Oscar, a third year physics and computer science major really interested in the intersections between physics and computer science. Some of my hobbies are soccer, video games, and skiing.</small></p>
+      </div>
+    <b>Oscar Alberto Tapia Gallegos</b><br/>
+    Lab ASE<br/>
+    <small> he/him/his </small> <br/>
+    oscar.tapia.g@
+    </div>
+      <div class='col-md-3 center col-sm-4 col-xs-6 bottomspace'>
+        <img class='headshot img-circle' src='photos-gsi/KapilMalladi.jpeg' id="gsi4" data-toggle="modal" data-target="#modal_gsi4"/>
+      <button type="button" class="gsicollapsible">Click to Toggle Bio!</button>
+      <div class="gsicontent">
+        <p><small>Hello! I&#x27;m a rising junior from the Bay Area studying CS and Applied Math. My technical interests lie in machine learning and cyber security. My favorite part of 16A is lab, which is why I&#x27;m staffing it!</small></p>
+      </div>
+    <b>Kapil Malladi</b><br/>
+    Lab ASE<br/>
+    <small> he/him/his </small> <br/>
+    kapilmalladi@
+    </div>
 </div>
 
 <script>

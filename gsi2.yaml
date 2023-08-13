@@ -1,0 +1,32 @@
+-   name: SooHyuk Cho
+    email: soohyuk.cho@
+    bio: "Hi everyone! My name is SooHyuk and I am a rising junior studying Computer Science and Data Science from Seoul, South Korea. This is my 3rd semester on the 16A staff team. I'm interested in various fields of EECS--from computer architecture to machine learning! I really enjoyed 16A and its approach to combine linear algebra and circuit knowledge for real-world problems when I took it as a student. In my free time, I enjoy playing the piano, swimming, and just walking around the campus! Super excited to serve as a tutor for 16A this summer!"
+    role: Tutor
+    image: SooHyukCho.jpg
+    imageFun: SooHyukChoFun.jpg
+    pronouns: he/him/his
+-   name: Anish Dhanashekar
+    email: aeroanish@
+    bio: "Hey everyone! I’m Anish! I’m a rising 3rd year EECS major from Tampa, Florida. I’m super excited to serve as a Lab ASE for 16A this summer and contribute to making this course a great experience for you! I thoroughly enjoyed the labs in 16A and hope you find appreciation for them as well! Outside the classroom, I enjoy hanging out with friends, watching football (Tampa Bay Buccaneers), listening to music (pop, hip-hop, and rap), and traveling. My technical interests include robotics, machine learning, and chip design. I look forward to meeting you!"
+    role: Lab ASE
+    image: AnishDhanashekar.png
+    imageFun: AnishDhanashekarFun.jpeg
+    pronouns: he/him/his
+-   name: Alexander Di
+    email: alexanderdi@
+    bio: "I'm a rising junior studying EECS and chemistry. Aside from microelectronics and embedded systems, you can find me enjoying origami folding and tennis. Excited to meet you all this summer!"
+    role: Lab ASE
+    image: AlexanderDi.jpg
+    pronouns: he/him/his
+-   name: Oscar Alberto Tapia Gallegos
+    email: oscar.tapia.g@
+    bio: "Hello! I'm Oscar, a third year physics and computer science major really interested in the intersections between physics and computer science. Some of my hobbies are soccer, video games, and skiing."
+    role: Lab ASE
+    image: OscarAlbertoTapiaGallegos.png
+    pronouns: he/him/his
+-   name: Kapil Malladi
+    email: kapilmalladi@
+    bio: "Hello! I'm a rising junior from the Bay Area studying CS and Applied Math. My technical interests lie in machine learning and cyber security. My favorite part of 16A is lab, which is why I'm staffing it!"
+    role: Lab ASE
+    image: KapilMalladi.jpeg
+    pronouns: he/him/his
